@@ -27,3 +27,7 @@
 ![게임오버화면](https://github.com/myh9410/OpenSource/blob/master/screenshots/gameover.png)
 ### 섀도우 기능(블럭이 떨어질 위치를 보여줌)
 ![섀도우 기능](https://github.com/myh9410/OpenSource/blob/master/screenshots/runningTetris.png)
+
+### 참고
+http://www.pygame.org/project-Tetromino+(Tetris+clone)-1852-.html
+https://github.com/k0626089/PYTRIS
